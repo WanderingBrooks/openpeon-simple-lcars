@@ -63,21 +63,6 @@
     "resource.limit": {
       "sounds": [
         {
-          "file": "sounds/limit_lcars_1.wav",
-          "label": "LCARS resource limit 1",
-          "sha256": "a7173ac810e95d9841751b8ab54be7a2d60a163069c9bb92a3947b1a2a8e209f"
-        },
-        {
-          "file": "sounds/limit_lcars_2.wav",
-          "label": "LCARS resource limit 2",
-          "sha256": "be424a92f81ca8f72f840fed71ad7493e62e07623e38c51a598708eb9e1fd693"
-        },
-        {
-          "file": "sounds/limit_lcars_3.wav",
-          "label": "LCARS resource limit 3",
-          "sha256": "d30216bdf70c39cc8a257c239614727463fe83634baf059544e398b1705dc71a"
-        },
-        {
           "file": "sounds/limit_lcars_4.wav",
           "label": "LCARS resource limit 4",
           "sha256": "a0f03cf1ae68c1b2dfa4ce963337db97c0b45e7dc712057981ed0f1cf9618551"
