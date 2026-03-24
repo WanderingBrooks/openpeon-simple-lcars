@@ -75,16 +75,6 @@
           "file": "sounds/spam_lcars_1.wav",
           "label": "LCARS spam warning 1",
           "sha256": "4d526af727cb794deeb76c043d5f450a8ff53d6462d2e0f9983d8cc26be190de"
-        },
-        {
-          "file": "sounds/spam_lcars_2.wav",
-          "label": "LCARS spam warning 2",
-          "sha256": "eed15167d831f17057e3907ac744954b62b159ae93101f2577387f606e532311"
-        },
-        {
-          "file": "sounds/spam_lcars_3.wav",
-          "label": "LCARS spam warning 3",
-          "sha256": "b0f8e09e49ef2737c6243d1efd664fcec9061ece78f66804f57526443c0d42b5"
         }
       ]
     }
