@@ -34,11 +34,6 @@
           "file": "sounds/done_lcars_4.wav",
           "label": "LCARS complete 4",
           "sha256": "e32be7515087e9062e1ad20e120c80306856b77dcb8eec1dc660d2523b2391ee"
-        },
-        {
-          "file": "sounds/done_lcars_7.wav",
-          "label": "LCARS complete 7",
-          "sha256": "e89be54fc7389c0444684b5ce7c151d2dc5fc0bb0d4435171bb964868f976a6c"
         }
       ]
     },
