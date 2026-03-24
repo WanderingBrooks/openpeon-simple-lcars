@@ -31,34 +31,9 @@
     "task.complete": {
       "sounds": [
         {
-          "file": "sounds/done_lcars_1.wav",
-          "label": "LCARS complete 1",
-          "sha256": "c3ab707ee93d73b9cfb7724ad045c0b7054a69a0edfb17eb3834bb3a55231f5a"
-        },
-        {
-          "file": "sounds/done_lcars_2.wav",
-          "label": "LCARS complete 2",
-          "sha256": "b71a669bb9ad45c259e070741e08b57af64c960f1a4433b0365cd262ff8b68f6"
-        },
-        {
-          "file": "sounds/done_lcars_3.wav",
-          "label": "LCARS complete 3",
-          "sha256": "18b8b6e26e1d21c50f224d4ffd4cd12c498cbd508ed4c223b6a1b2365bb4be39"
-        },
-        {
           "file": "sounds/done_lcars_4.wav",
           "label": "LCARS complete 4",
           "sha256": "e32be7515087e9062e1ad20e120c80306856b77dcb8eec1dc660d2523b2391ee"
-        },
-        {
-          "file": "sounds/done_lcars_5.wav",
-          "label": "LCARS complete 5",
-          "sha256": "2e3c3ca894dc59040ec9289ad81b6bf09a87741583de46e2f1f54c7ac5eb7b89"
-        },
-        {
-          "file": "sounds/done_lcars_6.wav",
-          "label": "LCARS complete 6",
-          "sha256": "b7c965d8322b11d519503fd7d0add044f135148fdb354ebdf837c9d3efd86ba8"
         },
         {
           "file": "sounds/done_lcars_7.wav",
