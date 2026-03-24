@@ -13,8 +13,8 @@
     "session.start": {
       "sounds": [
         {
-          "file": "sounds/start_lcars.wav",
-          "label": "LCARS startup",
+          "file": "sounds/start_lcars_2.wav",
+          "label": "LCARS startup 2",
           "sha256": "e4e14aa646f497958165cb0e31039de0116f8e2950aedf0927b10b07486a6300"
         },
       ]
@@ -22,8 +22,8 @@
     "task.acknowledge": {
       "sounds": [
         {
-          "file": "sounds/ack_lcars.wav",
-          "label": "LCARS acknowledge",
+          "file": "sounds/ack_lcars_1.wav",
+          "label": "LCARS acknowledge 1",
           "sha256": "2621a61bb4b928e2fb0bbd3c3eadf718ecf01f2fb93b49952f12bafe6b2c280a"
         }
       ]
