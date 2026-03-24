@@ -48,31 +48,6 @@
           "file": "sounds/err_lcars_1.wav",
           "label": "LCARS error 1",
           "sha256": "683fb0fd32400e93d43cb18a06bd4b433fc16935376981c16187cbbe178fa248"
-        },
-        {
-          "file": "sounds/err_lcars_2.wav",
-          "label": "LCARS error 2",
-          "sha256": "8d131951f5281a50bec74aad496bf446bca9c7ef95d2ee9e397954c510020602"
-        },
-        {
-          "file": "sounds/err_lcars_3.wav",
-          "label": "LCARS error 3",
-          "sha256": "6ad7cdc952b7fff7c2accee6207af288a210bf9abc5f0f67833613dc5d2af29c"
-        },
-        {
-          "file": "sounds/err_lcars_4.wav",
-          "label": "LCARS error 4",
-          "sha256": "57ee492bcf17fd9017de7a8b57262750a0365647120fe7542afbddc1eec06959"
-        },
-        {
-          "file": "sounds/err_lcars_5.wav",
-          "label": "LCARS error 5",
-          "sha256": "ab5d5d9171c52184cee75ae1e8fd81a6aab5e68e1c98cbff8b2c5abb2560264f"
-        },
-        {
-          "file": "sounds/err_lcars_6.wav",
-          "label": "LCARS error 6",
-          "sha256": "e76c1562ec166b2d6453672e8e1cbeb732a38963b64f9c66c4847c6c25b87390"
         }
       ]
     },
