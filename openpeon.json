@@ -1,11 +1,11 @@
 {
   "cesp_version": "1.0",
-  "name": "lcars",
-  "display_name": "LCARS (Star Trek TNG)",
+  "name": "simple-lcars",
+  "display_name": "Simple LCARS (Star Trek TNG)",
   "version": "1.0.0",
   "author": {
-    "name": "heidilux",
-    "github": "heidilux"
+    "name": "wanderingbrooks",
+    "github": "wanderingbrooks"
   },
   "license": "personal-use",
   "language": "en",
