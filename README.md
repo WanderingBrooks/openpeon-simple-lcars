@@ -1,5 +1,9 @@
 # LCARS Sound Pack
 
+Fork of [heidilux/openpeon-lcars](https://github.com/heidilux/openpeon-lcars).
+
+I loved the idea but wanted a few less sounds. Removed all but my favorite for each category.
+
 A Star Trek: The Next Generation LCARS-themed sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) / [OpenPeon](https://openpeon.com) (CESP 1.0).
 
 ## What is OpenPeon?
@@ -14,13 +18,13 @@ Want to create your own? Check out the [sound pack creation guide](https://openp
 
 | Event | Sounds | Description |
 |---|---|---|
-| `session.start` | 3 | Session initialization |
-| `task.acknowledge` | 16 | Task accepted and processing |
-| `task.complete` | 7 | Task finished successfully |
-| `task.error` | 6 | Something failed |
-| `input.required` | 11 | Waiting for user input |
-| `resource.limit` | 4 | Rate or quota limit hit |
-| `user.spam` | 3 | Too many commands too fast |
+| `session.start` | 1 | Session initialization |
+| `task.acknowledge` | 1 | Task accepted and processing |
+| `task.complete` | 1 | Task finished successfully |
+| `task.error` | 1 | Something failed |
+| `input.required` | 1 | Waiting for user input |
+| `resource.limit` | 1 | Rate or quota limit hit |
+| `user.spam` | 1 | Too many commands too fast |
 
 ## Installation
 
