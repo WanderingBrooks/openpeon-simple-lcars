@@ -54,59 +54,9 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/input_lcars_1.wav",
-          "label": "LCARS input required 1",
-          "sha256": "a909cfcea2d27df4e147cd1a7e2077d8cf000131da6b98771ea92e4c4ed936c5"
-        },
-        {
-          "file": "sounds/input_lcars_2.wav",
-          "label": "LCARS input required 2",
-          "sha256": "8d7445f4d38b22e72b807777b81f80bbb676d8c2e04150ee1cd95d21fd4890be"
-        },
-        {
-          "file": "sounds/input_lcars_3.wav",
-          "label": "LCARS input required 3",
-          "sha256": "9fde8d97e4cb863d642d01a4b5dd822a3c2e159948deaf9d6952e7893bf3fc5b"
-        },
-        {
-          "file": "sounds/input_lcars_4.wav",
-          "label": "LCARS input required 4",
-          "sha256": "18c54df1740018f8daacad5c4e22d0cde2b97b39c774ec42baa1202a88a76eba"
-        },
-        {
-          "file": "sounds/input_lcars_5.wav",
-          "label": "LCARS input required 5",
-          "sha256": "43112cac348593019c19bf440255774055698d6684efbe417a80e420173c19c4"
-        },
-        {
-          "file": "sounds/input_lcars_6.wav",
-          "label": "LCARS input required 6",
-          "sha256": "303a02bbb93172ff953bbecb0ed83e5adc79bf1ab972aa8bee77819f41b0d206"
-        },
-        {
-          "file": "sounds/input_lcars_7.wav",
-          "label": "LCARS input required 7",
-          "sha256": "662554204fbb84afa1966bb756329ad2eb46612245badca9fdd7e0f39b66b9de"
-        },
-        {
           "file": "sounds/input_lcars_8.wav",
           "label": "LCARS input required 8",
           "sha256": "40c3b5e15a1aaa9749b8067000895c3fde0f59f858ebce253605e429aa7187f1"
-        },
-        {
-          "file": "sounds/input_lcars_9.wav",
-          "label": "LCARS input required 9",
-          "sha256": "ca7d9ef8593a693f5c4698f2b685b2bfcb02c0bf34e587cabfd878b86e922b54"
-        },
-        {
-          "file": "sounds/input_lcars_10.wav",
-          "label": "LCARS input required 10",
-          "sha256": "31a42ab24cabe69861d73ea4bcff028eb34d3e6a1c4b8512b53df64471b8a367"
-        },
-        {
-          "file": "sounds/input_lcars_11.wav",
-          "label": "LCARS input required 11",
-          "sha256": "a2036166920caec444b6e42a394c820ff3250bdbfaf631798a56170f4c74d218"
         }
       ]
     },
