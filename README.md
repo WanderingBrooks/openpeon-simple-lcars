@@ -28,14 +28,14 @@ Want to create your own? Check out the [sound pack creation guide](https://openp
 
 ## Installation
 
-```bash
-peon install heidilux/openpeon-lcars
-```
-
-Or clone manually:
-
+1. Clone this repo
 ```bash
 git clone https://github.com/heidilux/openpeon-lcars.git
+```
+
+2. Install it into your local peon-ping
+```bash
+peon packs install-local <PATH_TO_FOLDER>/openpeon-simple-lcars
 ```
 
 ## License
