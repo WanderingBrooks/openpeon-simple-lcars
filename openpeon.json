@@ -16,7 +16,7 @@
           "file": "sounds/start_lcars_2.wav",
           "label": "LCARS startup 2",
           "sha256": "e4e14aa646f497958165cb0e31039de0116f8e2950aedf0927b10b07486a6300"
-        },
+        }
       ]
     },
     "task.acknowledge": {
